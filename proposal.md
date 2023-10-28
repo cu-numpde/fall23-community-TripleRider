@@ -36,7 +36,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-No significant risk at this time. The project seems to very well managed with documentation, tutorials and pointers for new developers who want to contribute. I have run a few examples and tutorials from the tool and downloaded the test repository. The next step is to run the test suite. Only slight concern would be lack of domain knowledge in most of the problems and tutorials being discussed (CFD related), but this is also presents an opportunity to get exposed to the field and the terminology. 
+No significant risk at this time. The project seems to be very well managed with documentation, tutorials and pointers for new developers who want to contribute. I have run a few examples and tutorials from the package and downloaded the test repository. The next step is to run the test suite. Only slight concern would be lack of domain knowledge in most of the problems and tutorials being discussed (CFD related), but this is also presents an opportunity to get exposed to the field and the terminology. 
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
