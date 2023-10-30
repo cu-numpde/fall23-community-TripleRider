@@ -38,7 +38,7 @@ encountered a problem.
 
 No significant risk at this time. The project seems to be very well managed with documentation, tutorials and pointers for new developers who want to contribute. I have run a few examples and tutorials from the package and downloaded the test repository. The next step is to run the test suite. Only slight concern would be lack of domain knowledge in most of the problems and tutorials being discussed (CFD related), but this is also presents an opportunity to get exposed to the field and the terminology.
 
-Some tests from the test suite are failing on a fresh software install. I have adressed some issues in python test scripts but the full suite is still not passing. Next I will check if some configurations need to be modified from default for building the package.
+Some tests from the test suite are failing on a fresh software install. I have adressed some issues in python test scripts but the full suite is still not passing. Next I will check if some configurations need to be modified from default for building the package. Issues mostly seen in "parallel compute" test cases. Possibly something to do with different installs of MPI (Open-MPI and MPICH).
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
